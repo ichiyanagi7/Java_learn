@@ -1,7 +1,7 @@
 
 public class Human01 {
-	public String name;
-	public int age;
+	public String name;	//メンバー変数
+	public int age;	//メンバー変数
 
 	public Human01() {
 		name = "山田";
